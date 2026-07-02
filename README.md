@@ -3,16 +3,16 @@
 A responsive **Amazon Clone website** built to replicate the look and feel of Amazon's e-commerce homepage.  
 This project focuses on creating a modern shopping interface with clean UI, responsive design, and interactive elements.
 
-## 🚀 Live Demo
+##  Live Demo
 
-Coming soon.....
+https://amazon-clone-2ium.vercel.app/
 
-## 📌 About The Project
+##  About The Project
 
 This project is a frontend clone of Amazon created for learning and practice purposes.  
 It recreates the main layout of an e-commerce website including navigation, search bar, product sections, banners, and shopping categories.
 
-## ✨ Features
+##  Features
 
 - ✅ Amazon-inspired homepage UI
 - ✅ Responsive design for different screen sizes
@@ -29,7 +29,7 @@ It recreates the main layout of an e-commerce website including navigation, sear
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 amazon-clone/
@@ -44,7 +44,7 @@ amazon-clone/
 └── README.md
 ```
 
-## 💻 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 
@@ -62,7 +62,7 @@ cd amazon-clone
 
 Open `index.html` in your browser.
 
-## 🎯 Learning Goals
+## Learning Goals
 
 Through this project I practiced:
 
@@ -72,7 +72,7 @@ Through this project I practiced:
 - Using JavaScript for interactions
 - Improving frontend development skills
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add shopping cart functionality
 - Add user authentication
@@ -80,13 +80,13 @@ Through this project I practiced:
 - Connect with backend API
 - Add payment integration
 
-## 👩‍💻 Author
+##  Author
 
 **Aarju**
 
 GitHub:  
 https://github.com/24aarju
 
-## ⭐ Support
+## Support
 
 If you like this project, consider giving it a star ⭐
